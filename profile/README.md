@@ -4,6 +4,10 @@
 🐧 This is the organizational repository for the Integrador 1 course project at the University of Antioquia. Explore and discover the beauty of collaborative learning within our academic community. 🌟1
 
 contributors: 
+[![Contributors](https://contributors-img.web.app/image?repo=Integradorl-UdeA/frontend_administrator-console)](https://github.com/Integradorl-UdeA/frontend_administrator-console/graphs/contributors)
+
+[![Contributors](https://contributors-img.web.app/image?repo=Integradorl-UdeA/backend_administrator-console)](https://github.com/Integradorl-UdeA/backend_administrator-console/graphs/contributors)
+
 
 > [!NOTE]
 > This is an educational project.
