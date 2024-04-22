@@ -6,11 +6,11 @@
 contributors: 
 
 
-### In the frontend
+#### In the frontend
 [![Contributors](https://contributors-img.web.app/image?repo=Integradorl-UdeA/frontend_administrator-console)](https://github.com/Integradorl-UdeA/frontend_administrator-console/graphs/contributors)
 
 
-### In the backend
+#### In the backend
 [![Contributors](https://contributors-img.web.app/image?repo=Integradorl-UdeA/backend_administrator-console)](https://github.com/Integradorl-UdeA/backend_administrator-console/graphs/contributors)
 
 
